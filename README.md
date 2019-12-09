@@ -21,8 +21,6 @@ sketchforme: https://arxiv.org/pdf/1904.04399.pdf
 
 rec2img: https://arxiv.org/pdf/1905.01273v1.pdf
 
-neural_modular: https://bair.berkeley.edu/blog/2017/06/20/learning-to-reason-with-neural-module-networks/
-
 image_gen_from_scene_graphs: http://openaccess.thecvf.com/content_cvpr_2018/papers/Johnson_Image_Generation_From_CVPR_2018_paper.pdf
 
 professor forcing: https://arxiv.org/pdf/1610.09038.pdf
