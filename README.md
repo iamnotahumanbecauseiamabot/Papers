@@ -7,6 +7,8 @@ Normalizing Flows for Probabilistic Modeling and Inference: https://arxiv.org/pd
 
 Neural Message Passing for Quantum Chemistry: https://arxiv.org/pdf/1704.01212.pdf 
 
+Cyclical Annealing Schedule for mitigating KL Vanishing :https://arxiv.org/pdf/1903.10145.pdf
+
 Variational Graph Auto-Encoders: https://arxiv.org/pdf/1611.07308.pdf
 
 Auto-Encoding Variational Bayes: https://arxiv.org/pdf/1312.6114.pdf
