@@ -1,5 +1,5 @@
 # Papers
-Papers I read(newest first)::
+Papers I have read (newest first)::
 
 An End-to-End Network for Generating Social Relationship Graphs: https://arxiv.org/pdf/1903.09784.pdf
 
