@@ -27,4 +27,6 @@ image_gen_from_scene_graphs: http://openaccess.thecvf.com/content_cvpr_2018/pape
 
 professor forcing: https://arxiv.org/pdf/1610.09038.pdf
 
+Recurrently Target-Attending Tracking: https://www.zpascal.net/cvpr2016/Cui_Recurrently_Target-Attending_Tracking_CVPR_2016_paper.pdf
+
 On Large-Batch training for deep learning: generalisation gap and sharp minima: https://openreview.net/pdf?id=H1oyRlYgg
