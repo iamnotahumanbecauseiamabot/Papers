@@ -1,6 +1,8 @@
 # Papers
 Papers I have read (newest first)::
 
+Distance-IoU Loss: Faster and Better Learning for Bounding Box Regression: https://arxiv.org/pdf/1911.08287.pdf
+
 An End-to-End Network for Generating Social Relationship Graphs: https://arxiv.org/pdf/1903.09784.pdf
 
 Normalizing Flows for Probabilistic Modeling and Inference: https://arxiv.org/pdf/1912.02762.pdf
